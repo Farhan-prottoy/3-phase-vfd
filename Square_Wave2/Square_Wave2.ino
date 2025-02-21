@@ -22,7 +22,7 @@ double delayWithoutDead;
 int Debounce_delay=80;//80ms
 unsigned long t=0;
 
-// Pin Assignments
+//-------------IGBT Gate pin---------------
 #define RH PB1  // Pin 9
 #define RL PB2  // Pin 10
 #define YH PB3  // Pin 11
